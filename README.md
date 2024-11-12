@@ -18,3 +18,6 @@ In 2022, support for Internet Explorer ended forever, and now when you open it, 
 
 ## What to do if it doesn't work
 It may happen that you open a file and instead of a web page, the window screen is white. To fix this, open a new tab and close the old one.
+
+## Important Security Warning
+Do NOT log in to any of your accounts (Google, Microsoft, etc.) while using Internet Explorer, as it is no longer secured. Internet Explorer was officially discontinued in 2022, and continuing to use it for logging into accounts can expose your personal information to security risks. 
