@@ -1,7 +1,7 @@
 # IE22+ | !!PLS READ!!
 
 ## Description
-IE22+ is a project that improves the use of Internet Explorer by bypassing certain limitations.
+In 2022, support for Internet Explorer ended forever, and now when you open it, you will be automatically redirected to Microsoft Edge. IE22+ bypasses this redirect, so you can use it without problems. 
 
 ## Functions
 - Opens Internet Explorer without redirecting to Microsoft Edge.
@@ -13,5 +13,5 @@ IE22+ is a project that improves the use of Internet Explorer by bypassing certa
 3. Run the `IE22+.vbs` file and open Internet Explorer as needed.
 
 ## Requirements
-- Microsoft Internet Explorer 11 (for better compatibility with modern websites).
+- Microsoft Internet Explorer 11.
 - Windows 7 or later.
