@@ -15,3 +15,6 @@ In 2022, support for Internet Explorer ended forever, and now when you open it, 
 ## Requirements
 - Microsoft Internet Explorer 11.
 - Windows 7 or later.
+
+## What to do if it doesn't work
+It may happen that you open a file and instead of a web page, the window screen is white. To fix this, open a new tab and close the old one.
