@@ -1,4 +1,4 @@
-# IE22+
+# IE22+ | !!PLS READ!!
 
 ## Description
 IE22+ is a project that improves the use of Internet Explorer by bypassing certain limitations.
