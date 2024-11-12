@@ -8,7 +8,7 @@ IE22+ is a project that improves the use of Internet Explorer by bypassing certa
 
 
 ## How to use
-1. Download the `IE22+.vbs` file to your computer from [here](#).
+1. Download the `IE22+.vbs` file to your computer from [here](https://github.com/Smilos71/IE22plus/releases/tag/download).
 2. Drag the `IE22+.vbs` file to the desktop
 3. Run the `IE22+.vbs` file and open Internet Explorer as needed.
 
