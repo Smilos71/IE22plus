@@ -12,6 +12,7 @@ In 2022, support for Internet Explorer ended forever, and now when you open it, 
 2. Drag the `IE22+.vbs` file to the desktop
 3. Run the `IE22+.vbs` file and open Internet Explorer as needed.
 - Video tutorial: https://www.youtube.com/watch?v=788aXfOgHeo
+FOr 1.1 version read instructions.txt in downloaded folder
 
 ## Requirements
 - Microsoft Internet Explorer 11.
